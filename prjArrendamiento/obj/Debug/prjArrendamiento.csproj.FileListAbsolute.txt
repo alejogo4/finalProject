@@ -1,0 +1,101 @@
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\ApplicationInsights.config
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\csc.exe
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\vbc.exe
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.dll.config
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.pdb
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Web.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Web.xml
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.dll
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.pdb
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csprojResolveAssemblyReference.cache
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csproj.CoreCompileInputs.cache
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.pdb
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\ApplicationInsights.config
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\csc.exe
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\System.Collections.Immutable.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\System.Reflection.Metadata.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\vbc.exe
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\VBCSCompiler.exe
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\VBCSCompiler.exe.config
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.dll.config
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.pdb
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.DependencyCollector.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Web.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.WindowsServer.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.ApplicationInsights.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.DependencyCollector.xml
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Web.xml
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.WindowsServer.xml
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.ApplicationInsights.xml
+I:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\ApplicationInsights.config
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\csc.exe
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\System.Collections.Immutable.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\System.Reflection.Metadata.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\vbc.exe
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\VBCSCompiler.exe
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\roslyn\VBCSCompiler.exe.config
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.dll.config
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\prjArrendamiento.pdb
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.DependencyCollector.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Web.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.WindowsServer.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.ApplicationInsights.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.DependencyCollector.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.Web.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.AI.WindowsServer.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.ApplicationInsights.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csprojResolveAssemblyReference.cache
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csproj.CoreCompileInputs.cache
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.dll
+F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.pdb

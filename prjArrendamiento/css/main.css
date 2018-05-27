@@ -1,0 +1,38 @@
+.bg_inicio{
+	background: url(../img/bg_index.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center bottom;
+}
+
+.btn_sombra{
+	border: 1px solid white;
+}
+
+.txt_sombre{
+	
+}
+
+
+.card_form {
+    width: 100% !important;
+    background-color: #E3EFFB;
+    margin-bottom: 0em !important;
+    border-radius: 0px;
+    height:100vh;
+}
+
+.welcome {
+    
+    color: #297FCA;
+    
+}
+
+.barJumbo {
+    background-color: #E3EFFB;
+} 
+
+.welcome h2 {
+    margin-top: 200px;
+    font-size: 38px;
+}
