@@ -13,21 +13,21 @@ namespace prjArrendamiento {
     public partial class frmLogin {
         
         /// <summary>
-        /// Control txtUsuario.
+        /// Control txtUsuarioL.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUsuario;
+        protected global::System.Web.UI.WebControls.TextBox txtUsuarioL;
         
         /// <summary>
-        /// Control txtPass.
+        /// Control txtPassL.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtPass;
+        protected global::System.Web.UI.WebControls.TextBox txtPassL;
     }
 }

@@ -99,3 +99,6 @@ F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrenda
 F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csproj.CoreCompileInputs.cache
 F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.dll
 F:\Desarrollo de software\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.pdb
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\obj\Debug\prjArrendamiento.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\gcsc.exe
+C:\Users\Alejandro\Documents\ITM ESTUDIO\Desarrollo de software empresarial\slnArrendamiento\prjArrendamiento\bin\roslyn\gcsc.ico

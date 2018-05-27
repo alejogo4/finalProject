@@ -12,12 +12,12 @@
                     
                     <div class="form-group">
     	                <label>Usuario</label>
-                        <asp:TextBox  CssClass="form-control" ID="txtUsuario" runat="server"></asp:TextBox>
+                        <asp:TextBox  CssClass="form-control" ID="txtUsuarioL" runat="server"></asp:TextBox>
                         
                     </div>
                     <div class="form-group">
     	                <label>Contraseña</label>
-                        <asp:TextBox  TextMode="Password" CssClass="form-control" ID="txtPass" runat="server"></asp:TextBox>
+                        <asp:TextBox  TextMode="Password" CssClass="form-control" ID="txtPassL" runat="server"></asp:TextBox>
                     </div> 
                     
                     <div class="form-group">
