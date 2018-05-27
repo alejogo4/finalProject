@@ -21,14 +21,14 @@
                     <div class="form-group">
     	                <label>Contraseña</label>
                         <asp:TextBox  TextMode="Password" CssClass="form-control" ID="txtPass" runat="server"></asp:TextBox>
-                    </div> <!-- form-group// --> 
+                    </div>  
                     
                     <div class="form-group">
                         <asp:Button Text="Registrarse" runat="server" CssClass="btn btn-primary btn-block"/>
-                    </div> <!-- form-group// -->                                                           
+                    </div>                                                            
               
                 </article>
-                </div> <!-- card.// -->
+                </div> 
             </div>
             <div class="col-md-7 welcome">
                 <h2>¡Renta un vehículo y vé donde quieras!</h2>
